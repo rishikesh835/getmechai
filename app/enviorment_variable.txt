@@ -1,0 +1,4 @@
+GITHUB_ID = Github id comes here
+GITHUB_SECRET = github secret comes here
+KEY_ID = razor_key_id
+KEY_SECRET = razor_key_secret
